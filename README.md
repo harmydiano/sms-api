@@ -15,6 +15,7 @@ Api web service for inbound & outbound
 - Change into the directory `cd inbound / outbound`
 - Install all required dependencies with `npm install`
 - Start the application with `npm run dev`
+- Run test with `npm run test`
 - Ensure you have redis started
 
 ### Documentation
