@@ -19,8 +19,15 @@ Api web service for inbound & outbound
 - Ensure you have redis started
 
 ### Documentation
-- https://www.getpostman.com/collections/3a25dbab2112d9281196
+- https://documenter.getpostman.com/view/4900546/UVsQtjPh
 
 - Run the postman collection on your postman device
-- INBOUND BASE_URL = http://localhost:3012/api/v1
-- INBOUND BASE_URL = http://localhost:3013/api/v1
+- Import the enviromental variables.
+
+- INBOUND BASE_URL LOCAL = http://localhost:3012/api/v1
+- OUTBOUND BASE_URL LOCAL = http://localhost:3013/api/v1
+
+- INBOUND BASE_URL LIVE = http://54.162.9.165:3012/api/v1
+- OUTBOUND BASE_URL LIVE = http://54.162.9.165:3013/api/v1
+
+
